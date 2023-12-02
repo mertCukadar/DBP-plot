@@ -1,1 +1,1 @@
-<iframe src="main.html" ></iframe>
+[PDF dosyasını görüntüle](main.pdf)
